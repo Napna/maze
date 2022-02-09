@@ -107,6 +107,7 @@ int main()
 			}
 			print1();
 			printf("\n\nyou win!"); 
+			break;
 		case 2:
 			print2();
 			while(1)
